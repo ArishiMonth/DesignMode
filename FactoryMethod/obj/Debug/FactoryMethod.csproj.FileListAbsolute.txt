@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2015\Projects\DesignMode\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\Documents\Visual Studio 2015\Projects\DesignMode\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\Documents\Visual Studio 2015\Projects\DesignMode\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\Documents\Visual Studio 2015\Projects\DesignMode\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\DesignMode\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\Documents\Visual Studio 2015\Projects\DesignMode\FactoryMethod\obj\Debug\FactoryMethod.pdb
+E:\学习\GitHub\DesignMode\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+E:\学习\GitHub\DesignMode\FactoryMethod\obj\Debug\FactoryMethod.exe
+E:\学习\GitHub\DesignMode\FactoryMethod\obj\Debug\FactoryMethod.pdb

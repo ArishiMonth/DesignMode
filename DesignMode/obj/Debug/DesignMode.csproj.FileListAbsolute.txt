@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\DesignMode\DesignMode\bin\Debug\DesignMode.exe.config
+d:\documents\visual studio 2015\Projects\DesignMode\DesignMode\bin\Debug\DesignMode.exe
+d:\documents\visual studio 2015\Projects\DesignMode\DesignMode\bin\Debug\DesignMode.pdb
+d:\documents\visual studio 2015\Projects\DesignMode\DesignMode\obj\Debug\DesignMode.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\DesignMode\DesignMode\obj\Debug\DesignMode.exe
+d:\documents\visual studio 2015\Projects\DesignMode\DesignMode\obj\Debug\DesignMode.pdb
