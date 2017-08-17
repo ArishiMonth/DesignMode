@@ -1,0 +1,6 @@
+E:\学习\GitHub\DesignMode\Singleton\bin\Debug\Singleton.exe.config
+E:\学习\GitHub\DesignMode\Singleton\bin\Debug\Singleton.exe
+E:\学习\GitHub\DesignMode\Singleton\bin\Debug\Singleton.pdb
+E:\学习\GitHub\DesignMode\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+E:\学习\GitHub\DesignMode\Singleton\obj\Debug\Singleton.exe
+E:\学习\GitHub\DesignMode\Singleton\obj\Debug\Singleton.pdb

@@ -1,0 +1,5 @@
+E:\学习\GitHub\DesignMode\Composite\bin\Debug\Composite.exe.config
+E:\学习\GitHub\DesignMode\Composite\bin\Debug\Composite.exe
+E:\学习\GitHub\DesignMode\Composite\bin\Debug\Composite.pdb
+E:\学习\GitHub\DesignMode\Composite\obj\Debug\Composite.exe
+E:\学习\GitHub\DesignMode\Composite\obj\Debug\Composite.pdb

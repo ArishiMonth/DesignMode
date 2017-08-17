@@ -15,7 +15,7 @@ namespace Builder
             string assemblyName = "Builder";
             object[] args = new object[1];
             args[0] = index;
-
+            //反射绑定类
             this.pb = (CreatMaze)Assembly.Load(assemblyName).CreateInstance(assemblyName + ".Room", false, BindingFlags.Default, null, args, null, null);
         }
         public void CreateRoom(int[] arr,int[] roomNumber)

@@ -1,0 +1,6 @@
+E:\学习\GitHub\DesignMode\Adapter\bin\Debug\Adapter.exe.config
+E:\学习\GitHub\DesignMode\Adapter\bin\Debug\Adapter.exe
+E:\学习\GitHub\DesignMode\Adapter\bin\Debug\Adapter.pdb
+E:\学习\GitHub\DesignMode\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+E:\学习\GitHub\DesignMode\Adapter\obj\Debug\Adapter.exe
+E:\学习\GitHub\DesignMode\Adapter\obj\Debug\Adapter.pdb

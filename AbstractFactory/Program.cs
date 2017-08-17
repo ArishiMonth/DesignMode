@@ -1,4 +1,8 @@
-﻿using System;
+﻿/**
+ * 抽象工厂——创建型
+ * 原型模式（Clone）
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -81,7 +85,10 @@ namespace AbstractFactory
         {
             Console.WriteLine("进入了一个房间，房间号是：" + roomNumber);
         }
-
+        /// <summary>
+        /// 克隆方法（原型模式（创建型）的应用）
+        /// </summary>
+        /// <returns></returns>
         public Object Clone()
         {
             Room obj = new Room(this.roomNumber);

@@ -1,4 +1,7 @@
-﻿using System;
+﻿/**
+ * 建造者——创建型
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -59,11 +62,11 @@ namespace Builder
             }
         }
 
-        abstract class TextConvert
+         class TextConvert
         {
-            public abstract void ConvertCharacter(string _char);
-            public abstract void ConvertFontChange(int font);
-            public abstract void ConvertParagraph();
+            public virtual void ConvertCharacter(string _char) { }
+            public virtual void ConvertFontChange(int font) { }
+            public virtual void ConvertParagraph() { }
         }
 
         class StringConvert : TextConvert
@@ -73,49 +76,23 @@ namespace Builder
             {
                 Console.WriteLine("这是一个" + _char);
             }
-
-            public override void ConvertFontChange(int font)
-            {
-                throw new NotImplementedException();
-            }
-
-            public override void ConvertParagraph()
-            {
-                throw new NotImplementedException();
-            }
         }
 
         class IntConvert: TextConvert
         {
             public IntConvert() { }
-            public override void ConvertCharacter(string _char)
-            {
-                throw new NotImplementedException();
-            }
+           
 
             public override void ConvertFontChange(int font)
             {
                 Console.WriteLine("这是一个数字：" + font);
             }
 
-            public override void ConvertParagraph()
-            {
-                throw new NotImplementedException();
-            }
         }
 
         class NothingConvert : TextConvert
         {
             public NothingConvert() { }
-            public override void ConvertCharacter(string _char)
-            {
-                throw new NotImplementedException();
-            }
-
-            public override void ConvertFontChange(int font)
-            {
-                throw new NotImplementedException();
-            }
 
             public override void ConvertParagraph()
             {
