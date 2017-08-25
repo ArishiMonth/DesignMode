@@ -1,0 +1,5 @@
+E:\学习\GitHub\DesignMode\FlyWeight\bin\Debug\FlyWeight.exe.config
+E:\学习\GitHub\DesignMode\FlyWeight\bin\Debug\FlyWeight.exe
+E:\学习\GitHub\DesignMode\FlyWeight\bin\Debug\FlyWeight.pdb
+E:\学习\GitHub\DesignMode\FlyWeight\obj\Debug\FlyWeight.exe
+E:\学习\GitHub\DesignMode\FlyWeight\obj\Debug\FlyWeight.pdb

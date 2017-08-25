@@ -1,1 +1,6 @@
 E:\学习\GitHub\DesignMode\Facade\bin\Debug\Facade.exe.config
+E:\学习\GitHub\DesignMode\Facade\bin\Debug\Facade.exe
+E:\学习\GitHub\DesignMode\Facade\bin\Debug\Facade.pdb
+E:\学习\GitHub\DesignMode\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+E:\学习\GitHub\DesignMode\Facade\obj\Debug\Facade.exe
+E:\学习\GitHub\DesignMode\Facade\obj\Debug\Facade.pdb

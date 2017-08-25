@@ -1,0 +1,6 @@
+E:\学习\GitHub\DesignMode\Command\bin\Debug\Command.exe.config
+E:\学习\GitHub\DesignMode\Command\bin\Debug\Command.exe
+E:\学习\GitHub\DesignMode\Command\bin\Debug\Command.pdb
+E:\学习\GitHub\DesignMode\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+E:\学习\GitHub\DesignMode\Command\obj\Debug\Command.exe
+E:\学习\GitHub\DesignMode\Command\obj\Debug\Command.pdb

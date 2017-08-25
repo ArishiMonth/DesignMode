@@ -1,0 +1,6 @@
+E:\学习\GitHub\DesignMode\Proxy\bin\Debug\Proxy.exe.config
+E:\学习\GitHub\DesignMode\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+E:\学习\GitHub\DesignMode\Proxy\bin\Debug\Proxy.exe
+E:\学习\GitHub\DesignMode\Proxy\bin\Debug\Proxy.pdb
+E:\学习\GitHub\DesignMode\Proxy\obj\Debug\Proxy.exe
+E:\学习\GitHub\DesignMode\Proxy\obj\Debug\Proxy.pdb
