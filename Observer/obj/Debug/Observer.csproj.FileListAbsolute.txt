@@ -1,0 +1,5 @@
+E:\学习\GitHub\DesignMode\Observer\bin\Debug\Observer.exe.config
+E:\学习\GitHub\DesignMode\Observer\bin\Debug\Observer.exe
+E:\学习\GitHub\DesignMode\Observer\bin\Debug\Observer.pdb
+E:\学习\GitHub\DesignMode\Observer\obj\Debug\Observer.exe
+E:\学习\GitHub\DesignMode\Observer\obj\Debug\Observer.pdb

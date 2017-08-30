@@ -4,3 +4,6 @@ d:\documents\visual studio 2015\Projects\DesignMode\DesignMode\bin\Debug\DesignM
 d:\documents\visual studio 2015\Projects\DesignMode\DesignMode\obj\Debug\DesignMode.csprojResolveAssemblyReference.cache
 d:\documents\visual studio 2015\Projects\DesignMode\DesignMode\obj\Debug\DesignMode.exe
 d:\documents\visual studio 2015\Projects\DesignMode\DesignMode\obj\Debug\DesignMode.pdb
+E:\学习\GitHub\DesignMode\DesignMode\bin\Debug\DesignMode.exe.config
+E:\学习\GitHub\DesignMode\DesignMode\obj\Debug\DesignMode.exe
+E:\学习\GitHub\DesignMode\DesignMode\obj\Debug\DesignMode.pdb

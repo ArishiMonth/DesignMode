@@ -1,0 +1,6 @@
+E:\学习\GitHub\DesignMode\Strategy\bin\Debug\Strategy.exe.config
+E:\学习\GitHub\DesignMode\Strategy\bin\Debug\Strategy.exe
+E:\学习\GitHub\DesignMode\Strategy\bin\Debug\Strategy.pdb
+E:\学习\GitHub\DesignMode\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+E:\学习\GitHub\DesignMode\Strategy\obj\Debug\Strategy.exe
+E:\学习\GitHub\DesignMode\Strategy\obj\Debug\Strategy.pdb

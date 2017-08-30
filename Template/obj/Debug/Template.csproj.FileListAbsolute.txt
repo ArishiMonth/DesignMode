@@ -1,0 +1,6 @@
+E:\学习\GitHub\DesignMode\Template\bin\Debug\Template.exe.config
+E:\学习\GitHub\DesignMode\Template\bin\Debug\Template.exe
+E:\学习\GitHub\DesignMode\Template\bin\Debug\Template.pdb
+E:\学习\GitHub\DesignMode\Template\obj\Debug\Template.csprojResolveAssemblyReference.cache
+E:\学习\GitHub\DesignMode\Template\obj\Debug\Template.exe
+E:\学习\GitHub\DesignMode\Template\obj\Debug\Template.pdb
